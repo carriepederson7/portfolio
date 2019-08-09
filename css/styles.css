@@ -18,6 +18,13 @@ background-color: #f4eab4;
   background-color: #b4bef4;
 }
 
+#italics {
+  font-style: italic;
+}
+
+.projects-text li a {
+  font-style: italic;
+}
 
 img {
   border-color: black;
