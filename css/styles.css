@@ -4,11 +4,18 @@ body {
 border: 1px;
 padding: 30px;
 margin: 30px;
+background-color: #f4eab4;
 }
 
-p {
+.objectives p {
   padding-left: 20px;
   padding-right: 10px;
+}
+
+.aboutme p {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #b4bef4;
 }
 
 
