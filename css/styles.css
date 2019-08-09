@@ -1,0 +1,37 @@
+/* Project includes a custom-made stylesheet that uses typography styles, cascading, */
+
+body {
+border: 1px;
+padding: 30px;
+margin: 30px;
+}
+
+
+
+}
+img {
+  border-color: black;
+  border-width: 20px;
+  border: solid;
+}
+
+img.about-me{
+  border: 10px;
+  border-color: black;
+  float: right;
+  max-height: 150px;
+  max-width: 200px;
+  width: 120px;
+  height: 120px;
+  margin: 10px;
+
+}
+
+h1 {
+text-align: center;
+  }
+
+h2 {
+  padding-left: 20px;
+  font-family: inherit;
+}
