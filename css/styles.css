@@ -1,10 +1,10 @@
 /* Project includes a custom-made stylesheet that uses cascading, */
 
 body {
-border: 1px;
-padding: 30px;
-margin: 30px;
-background-color: #f4eab4;
+  border: 1px;
+  padding: 30px;
+  margin: 30px;
+  background-color: #f4eab4;
 }
 
 .objectives p {
@@ -15,7 +15,6 @@ background-color: #f4eab4;
 .aboutme p {
   padding-left: 10px;
   padding-right: 10px;
-  background-color: #b4bef4;
 }
 
 #italics {
@@ -26,13 +25,19 @@ background-color: #f4eab4;
   font-style: italic;
 }
 
+.title {
+  height: 1000;
+}
 img {
-  border-color: black;
-  border-width: 20px;
-  border: solid;
+  border-color: lightgray;
+  border-width: 5px;
+  width: 150px;
+  border-radius: 5%;
+  border: lightgrey;
+  float: left;
 }
 
-img.about-me{
+/* img.about-me {
   border: 10px;
   border-color: black;
   float: right;
@@ -41,14 +46,14 @@ img.about-me{
   width: 120px;
   height: 120px;
   margin: 10px;
-
-}
+} */
 
 h1 {
-text-align: center;
-  }
+  text-align: center;
+}
 
-h2, h4 {
+h2,
+h4 {
   padding-left: 20px;
   font-family: inherit;
 }
