@@ -1,4 +1,4 @@
-##Portfolio
+## Portfolio
 
 #### Webpage using HTML and CSS to be the landing page for your web programming portfolio, 8.9.19
 
@@ -10,11 +10,11 @@ Examples of using HTML tags, Bootstrap classes,custom-made stylesheet, indentati
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+- _This is a great place_
+- _to list setup instructions_
+- _in a simple_
+- _easy-to-understand_
+- _format_
 
 ## Known Bugs
 

@@ -1,20 +1,17 @@
 
 body {
-border: 1px;
-padding: 30px;
-margin: 30px;
-background-color: #f4eab4;
+  border: 1px;
+  padding: 30px;
+  margin: 30px;
+  background-color: #d6deeb;
 }
 
-.objectives p {
+
+
+.aboutme {
   padding-left: 20px;
-  padding-right: 10px;
-}
-
-.aboutme p {
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: #b4bef4;
+  padding-right: 50px;
+  padding-bottom: 20px;
 }
 
 #italics {
@@ -25,13 +22,20 @@ background-color: #f4eab4;
   font-style: italic;
 }
 
-img {
-  border-color: black;
-  border-width: 20px;
-  border: solid;
+.title {
+  height: 1000;
 }
 
-img.about-me{
+img {
+  border-color: lightgray;
+  border-width: 5px;
+  width: 150px;
+  border-radius: 5%;
+  border: lightgrey;
+  float: left;
+}
+
+/* img.about-me {
   border: 10px;
   border-color: black;
   float: right;
@@ -40,14 +44,24 @@ img.about-me{
   width: 120px;
   height: 120px;
   margin: 10px;
+} */
+
+h1 {
+  text-align: center;
+  padding-left: 10%;
+
 
 }
 
-h1 {
-text-align: center;
-  }
-
-h2, h4 {
+h3,
+h4 {
   padding-left: 20px;
   font-family: inherit;
+}
+
+h5 {
+  text-align: center;
+  padding-left: 10%;
+  /* padding-top: 20px;
+  padding-bottom: 20px; */
 }
